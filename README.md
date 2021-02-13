@@ -8,3 +8,5 @@ Homework 2 : Job to be done
 Homework 3 : Value Proposition (Pain and gain analysis)
 
 Homework 4 : Customer Journey
+
+Homework 5 : Customer lifetime value dashboard
