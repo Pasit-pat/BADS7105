@@ -3,7 +3,7 @@ For homework in master degree in NIDA
 
 Homework 1 : Analytics from surveys
 
-Homework 2 :
+Homework 2 : Job to be done
 
 Homework 3 : Value Proposition (Pain and gain analysis)
 
