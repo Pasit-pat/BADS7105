@@ -10,3 +10,7 @@ Homework 3 : Value Proposition (Pain and gain analysis)
 Homework 4 : Customer Journey
 
 Homework 5 : Customer lifetime value dashboard
+
+Homework 06 – Customer Segmentation
+
+Homework 07 – Product Recommendation
