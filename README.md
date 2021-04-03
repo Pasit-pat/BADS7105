@@ -11,6 +11,6 @@ Homework 4 : Customer Journey
 
 Homework 5 : Customer lifetime value dashboard
 
-Homework 06 – Customer Segmentation
+Homework 6 – Customer Segmentation
 
-Homework 07 – Product Recommendation
+Homework 7 – Product Recommendation
