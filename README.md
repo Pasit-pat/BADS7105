@@ -1,16 +1,25 @@
 # BADS7105
 For homework in master degree in NIDA
+Homework 01 – Analysis of customer behaviors
 
-Homework 1 : Analytics from surveys
+Homework 02 – Jobs to be done
 
-Homework 2 : Job to be done
+Homework 03 – Value Proposition
 
-Homework 3 : Value Proposition (Pain and gain analysis)
+Homework 04 – Customer Journey
 
-Homework 4 : Customer Journey
+Homework 05 – CLV Dashboard
 
-Homework 5 : Customer lifetime value dashboard
+Homework 06 – Customer Segmentation
 
-Homework 6 – Customer Segmentation
+Homework 07 – Product Recommendation
 
-Homework 7 – Product Recommendation
+Homework 08 – Campaign Response Model
+
+Homework 09 – A/B Testing
+
+Homework 10 – Customer Movement Analysis
+
+Homework 11 – Customer Voice Analysis 
+
+Homework 12 - Design Thinking
